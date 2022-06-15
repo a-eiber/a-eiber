@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alec. I'm a software developer and a veteran, currently working on a web app that allows artists to create, share, and sell NFTs.
+My name is Alec. I'm a software developer and a veteran, currently working on a portfolio projects, studying data structures and algorithms, and learning new programming languages.
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/aleceiber) or on my [website](https://www.aleceiber.com).
 
