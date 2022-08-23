@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alec</h1>
-<h3 align="center">Veteran, bootcamp graduate, software engineer. Working on making interesting apps and learning something new everyday.</h3>
+<h3 align="center">Veteran, bootcamp graduate, software engineer.</h3>
 
-- 🔭 I’m currently working on **portfolio projects, studying data structures and algorithms, and learning new programming languages.**
+- 🔭 I’m currently working as a **software engineer for Oracle**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Java and cloud fundamentals**
 
 - 👨‍💻 All of my projects are available at [https://www.aleceiber.com](https://www.aleceiber.com)
 
